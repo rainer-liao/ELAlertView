@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  BMWAlertView
+
+  Created by rainer_liao on 16/5/29.
+  Copyright © 2016年 rainer_liao. All rights reserved.
+*/
+
+"default_title"     = "I'm default style alertView";
+"default_message"   = "Use me when you need confirm action, Use me when you need confirm action ,Use me when you need confirm action";
+
+"image_title"       = "I'm image style alertView";
+"image_message"     = "Use me when you need image style alertView";
+
+"ok"                = "ok";
+

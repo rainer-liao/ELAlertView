@@ -1,0 +1,36 @@
+
+/* Class = "UITableViewSection"; headerTitle = "带图的"; ObjectID = "EPo-sf-Gn0"; */
+"EPo-sf-Gn0.headerTitle" = "Image style";
+
+/* Class = "UINavigationItem"; title = "提示框"; ObjectID = "Ezu-AJ-QKF"; */
+"Ezu-AJ-QKF.title" = "Alert View";
+
+/* Class = "UILabel"; text = "1 Action"; ObjectID = "LpJ-VJ-RXC"; */
+"LpJ-VJ-RXC.text" = "1 Action";
+
+/* Class = "UILabel"; text = "1 Action"; ObjectID = "TaZ-gF-2QS"; */
+"TaZ-gF-2QS.text" = "1 Action";
+
+/* Class = "UILabel"; text = "Custom 2"; ObjectID = "VHZ-xd-BSA"; */
+"VHZ-xd-BSA.text" = "Custom 2";
+
+/* Class = "UITableViewSection"; headerTitle = "默认样式"; ObjectID = "VOP-hR-hez"; */
+"VOP-hR-hez.headerTitle" = "Default";
+
+/* Class = "UITableViewSection"; headerTitle = "自定义(custom)"; ObjectID = "WlA-y0-wEG"; */
+"WlA-y0-wEG.headerTitle" = "自定义(custom)";
+
+/* Class = "UILabel"; text = "3 Actions"; ObjectID = "avY-wk-4bl"; */
+"avY-wk-4bl.text" = "3 Actions";
+
+/* Class = "UILabel"; text = "Custom 1"; ObjectID = "cd8-fE-S3K"; */
+"cd8-fE-S3K.text" = "Custom 1";
+
+/* Class = "UILabel"; text = "2 Actions"; ObjectID = "g1O-F9-aCq"; */
+"g1O-F9-aCq.text" = "2 Actions";
+
+/* Class = "UILabel"; text = "3 Action"; ObjectID = "kKY-QO-b4f"; */
+"kKY-QO-b4f.text" = "3 Action";
+
+/* Class = "UILabel"; text = "2 Action"; ObjectID = "oF2-yJ-p3J"; */
+"oF2-yJ-p3J.text" = "2 Action";

@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  BMWAlertView
+
+  Created by rainer_liao on 16/5/29.
+  Copyright © 2016年 rainer_liao. All rights reserved.
+*/
+
+"default_title"     = "我是默认样式弹框";
+"default_message"   = "需要确认操作的时候调用我,需要确认操作的时候调用我,需要确认操作的时候调用我";
+
+"image_title"       = "我是带图的弹框";
+"image_message"     = "需要带图的时候调用我";
+
+"ok"                = "好的";
+
