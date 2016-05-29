@@ -1,21 +1,15 @@
 # ELAlertView
-Highly configurable iOS Alert Views with custom content views
-
-ELAlertView support custom content views and appeanace for alert view.  
-A good choice for alertView with image.     
-You can use it to replace UIAlertController/UIAlertView.   
-Support iOS7.    
-ELAlertView 可以定制化弹框的外形和其内容.     
-最关键的是可以放置图片.     
-你可以使用它来代替系统的UIAlertController/UIAlertView.     
-支持iOS7.    
+ELAlertView support custom content views and appeanace for alert view.【ELAlertView 可以定制化弹框的外形和其内容.】     
+A good choice for alertView with image.【最关键的是可以放置图片.】       
+You can use it to replace UIAlertController/UIAlertView.【你可以使用它来代替系统的UIAlertController/UIAlertView.】    
+Support iOS7.【支持iOS7.】     
 
 This project is inspired by [NYAlertViewController](https://github.com/nealyoung/NYAlertViewController)
 
 ## Installation 安装
 ### Manual 手动
-Just download the zip and drag the ELAlertView directory into you Xcode project.    
-下载本项目,将项目中的ELAlertView文件拖到你的Xcode工程就OK了.    
+Just download the zip and drag the ELAlertView directory into you Xcode project.【下载本项目,将项目中的ELAlertView文件拖到你的Xcode工程就OK了. 】    
+   
 
 ###CocoaPods
 
