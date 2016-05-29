@@ -6,6 +6,8 @@ Support iOS7.【支持iOS7.】
 
 This project is inspired by [NYAlertViewController](https://github.com/nealyoung/NYAlertViewController)
 
+![Flipboard playing multiple GIFs](https://github.com/rainer-liao/ELAlertView/blob/1.0.0/ELAlertView/ezgif-1657319143.gif)
+
 ## Installation 安装
 ### Manual 手动
 Just download the zip and drag the ELAlertView directory into you Xcode project.【下载本项目,将项目中的ELAlertView文件拖到你的Xcode工程就OK了. 】    
