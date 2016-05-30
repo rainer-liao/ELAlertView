@@ -14,6 +14,7 @@ Just download the zip and drag the ELAlertView directory into you Xcode project.
    
 
 ###CocoaPods
+pod 'ELAlertView', '~>1.0.0'
 
 ## How To Use 使用方法
 ```objc
